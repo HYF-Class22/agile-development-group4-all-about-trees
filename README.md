@@ -7,7 +7,7 @@
 
 ## Table of contents
 
-- [All About Trees](#all-about-trees-🌳🌳-project)
+- All About Trees
   - [Table of contents](#table-of-contents)
   - [Project Member](#project-members-group-4)
   - [Technologies](#technologies)
