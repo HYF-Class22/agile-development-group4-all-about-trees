@@ -1,10 +1,9 @@
 # "All About Trees 🌳🌳" Project
 
 > The "All About Trees" is a project to create a simple and informative web page
-> providing a comprehensive various types of trees.
-> Whether the user is a nature enthusiast, student, or just curious about the
-> world of trees, this project will be their main source for learning about
-> trees.
+> providing a comprehensive various types of trees. Whether the user is a nature
+> enthusiast, student, or just curious about the world of trees, this project
+> will be their main source for learning about trees.
 
 ## Table of contents
 
