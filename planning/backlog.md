@@ -1,30 +1,28 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
 ## Must-Haves
 
-> these are necessary for basic usability
+- [ ] As a user, I want to see **A fresh and modern title**, This assures me
+      that the information on this page is current and regularly updated.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to have a clear and **accessible navigation system**,
+      This ensures that I can easily move between different sections and
+      content.
+
+- [ ] As a user, I want to a **clear introduction**, This provide a clear
+      overview of the topics or information the webpage will cover.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
+- [ ] As a user, I would like to see a **variety of photos**, not just textual
+      content. Visuals making the content more engaging and easier to
+      understand.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I would like to find easily accessible **"contact Us"**
+      details. Having these contact options ensures that I can reach any
+      assistance I may need.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I would love to find **Fun & entertaining game**. This would
+      add an element of an enjoyable experience.
