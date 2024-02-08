@@ -2,16 +2,14 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+We have decided to design our page with a catchy and contemporary title, slogans
+& logo to ensure a fresh and recent-updated first impression.
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+The design should be a straightforward and simple structure, providing organized
+sections with minimal content to achieve simplicity and ease of navigation.
 
 ---
 
-## Wireframe(s)
+## Our Project's Outline Design
 
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![Design](Untitled-2024-02-04-1453.png)
