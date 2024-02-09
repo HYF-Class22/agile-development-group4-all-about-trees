@@ -1,1 +1,15 @@
-@import url("./something.css");
+/* Title+ Logo Img */
+
+#title-img {
+  width: 100%;
+  height: auto;
+  max-width: 38cm;
+}
+
+/* nav */
+
+.nav-header-footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
