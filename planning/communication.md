@@ -16,11 +16,12 @@
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Needed create issues.
+- **Pull Requests**: If it is wrong, no one shouldn't pull.
+- **GitHub Discussions**: If someone of group member thinks something is wrong,
+  they can contact us by writing here.
+- **Slack/Discord**: Use channels for specific topics or tasks.
+- **Video Calls**: Use the Zoom / Google meet
 
 ---
 
