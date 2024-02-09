@@ -1,32 +1,43 @@
+
 # Constraints
 
-Some boundaries around our project.
+In order to manage our project effectively, it's important to define and
+acknowledge various constraints that impact our work.
 
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over.
-  These may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+Constraints coming from external sources that our team has no control over.
+These may include:
+
+- **Project Deadlines:** The project must be completed by [specific deadline].
+- **UI Design or Color Schemes:** Adherence to predefined UI design elements or
+  color schemes.
+- **Technologies:** Requirements to use specific technologies mandated by
+  stakeholders or clients.
 
 ## Internal: Involuntary
 
-<!--
-  constraints that come from within your team, and you have no control over.
-  They may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+Constraints originating from within our team, over which we have limited
+control. These may include:
+
+- **Individual Skill Levels:** Varied skill levels among team members impacting
+  task assignments and project outcomes.
+- **Time Availability:** Limited availability of team members due to other
+  commitments or obligations.
 
 ## Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+Constraints that our team has voluntarily agreed upon to help scope the project
+effectively. These may include:
+
+- **Coding Style & Conventions:** Adherence to specific coding style guidelines
+  and conventions agreed upon by the team.
+- **Code Review Checklist:** A predefined checklist for code reviews to ensure
+  code quality and consistency.
+- **Project Time Allocation:** Setting specific hours or timeframes for project
+  work to manage workload and prevent burnout.
+- **Color Palette:** Limiting the color palette to black and white for a
+  minimalist design approach.
+
+By recognizing and understanding these constraints, we can better navigate
+challenges and make informed decisions throughout the project lifecycle.
