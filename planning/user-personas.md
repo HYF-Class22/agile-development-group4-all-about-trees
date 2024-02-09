@@ -37,3 +37,18 @@ to include, making sure the website is helpful and enjoyable for everyone.
   facts information behind each picture.
 
 ---
+
+## Nature Enthusiast Anna Lee
+
+Bio: Environmental Science Student, 22 years old, living in Seattle, USA.
+Needs/Goals: Anna is deeply passionate about environmental conservation and
+wants to deepen her knowledge about trees, their ecological significance, and
+their role in mitigating climate change. Frustrations: Often finds it
+challenging to access comprehensive and reliable information about different
+tree species, their habitats, and conservation efforts. Scenario: Anna seeks a
+platform that not only provides detailed descriptions and images of various
+trees but also offers insights into their environmental impact and conservation
+status. She wishes to engage with a community of like-minded individuals who
+share her passion for nature and sustainability, where she can exchange ideas,
+learn from others, and contribute to meaningful discussions about preserving the
+planet's biodiversity
