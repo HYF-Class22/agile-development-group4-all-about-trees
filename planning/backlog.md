@@ -34,4 +34,4 @@
       add an element of an enjoyable experience.
 
 - [ ] As a user, I would like to have **a multi-language web translation
-      feature**, so I can easily understand and see everything in my language.
+      feature**, so I can easily understand and see all content in preferred language.
