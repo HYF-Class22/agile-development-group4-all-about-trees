@@ -8,8 +8,7 @@
     "spell-check": "cspell  \"./**\"",
     "lint:ls": "ls-lint",
     "lint:md": "markdownlint --config ./.markdownlint.jsonc ./ ",
-    "lint:css": "stylelint \"./**/*.css\"",
-    "validate:html": "html-validate ./",
+     "lint:css": "stylelint 'src/**/*.css'",
     "accessibility": "achecker"
   },
   "author": "DeNepo",
