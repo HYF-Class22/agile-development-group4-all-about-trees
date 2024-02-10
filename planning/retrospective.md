@@ -11,16 +11,19 @@
 
 - Share ideas
 - asking questions and help when needed
+- Work in an effective communicative
 
 ## Start Doing
 
 - Be committed and communicate openly about your schedule.
+- It is necessary to spend more time working and be more active.
 
 ## Lessons Learned
 
 - I've learned that good planning is key to build a website successfully!
 - Teamwork can be challenging when passion and commitment levels differ!
 - Low progress on the initial tasks, preventing the team from moving forward!
+- I have seen that you can learn new things by constantly trying.
 
 ---
 
@@ -36,5 +39,9 @@ We added mixed (must-have, should-have, could-have) features in same push due to
 time limitations.
 
 ### Did you need to add things that weren't in your strategy?
+
+- It was considered important to progress quickly by asking the coaches and
+  teammates instead of getting stuck in a mistake and not being able to
+  progress.
 
 ### Or remove extra steps?
