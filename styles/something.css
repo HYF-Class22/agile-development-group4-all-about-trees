@@ -1,3 +1,87 @@
 body {
   background-color: white;
 }
+
+#title-img {
+  width: 100%;
+  height: auto;
+  max-width: 38cm;
+}
+
+/* nav */
+
+.nav-header-footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
+
+/* introduction part */
+
+.intro {
+  align-content: center;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+.intro-title {
+  font-family: initial;
+  font-size: xx-large;
+  padding: 15px;
+  text-align: center;
+}
+
+.intro-paragraph1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: larger;
+  text-align: center;
+}
+
+.intro-paragraph2 {
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: medium;
+  text-align: center;
+}
+
+/* put styling into here */
+
+/* our picks part */
+
+.picks {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 10px;
+  place-items: center;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+#picks1 {
+  grid-column: span 2;
+}
+
+#picks-title {
+  color: darkolivegreen;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: x-large;
+}
+
+#picks-paragraph {
+  color: grey;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: large;
+}
+
+.picks-img {
+  width: 160px;
+  height: 160px;
+}
+
+figcaption {
+  text-align: center;
+}
+
+/* Footer >>>> styling with top nav */
